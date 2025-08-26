@@ -1,0 +1,22 @@
+\# lab-02-4C24-2024-DSQ 
+
+
+
+Descripción breve del proyecto
+
+
+
+\## Getting Started
+
+
+
+Instrucciones para empezar el proyecto
+
+
+
+\### Autor
+
+Daniela Salazar Quina
+
+
+
